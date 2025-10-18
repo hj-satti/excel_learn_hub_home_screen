@@ -28,7 +28,8 @@ To run the app locally, follow these steps:
 1. **Clone this repository**:
 
     ```bash
-    git clone https://github.com/your-username/excel_learn_hub.git
+    git clone https://github.com/hj-satti/excel_learn_hub_home_screen.git
+
     ```
 
 2. **Navigate to the project directory**:
